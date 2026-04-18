@@ -27,7 +27,7 @@ html,body {
 }
 /* Header 樣式 */
 header {
-    background-color: #d9b3ff;
+    background-color: #33CCFF;
     padding: 20px 0;
     text-align: center;
     border-radius: 15px 15px 0 0;
@@ -50,7 +50,7 @@ header nav ul li a {
 .profile {
     display: flex;
     align-items: center;
-    background-color: #e6e6e6;
+    background-color: #C4E3E5;
     border-radius: 15px;
     padding: 20px;
     margin: 0;
@@ -99,7 +99,7 @@ header nav ul li a {
 #skills {
     text-align: left;
     padding: 20px;
-    background-color: #d9b3ff;
+    background-color: #33CCFF;
     margin: 0;
     border-radius: 10px;
 }
@@ -145,7 +145,7 @@ header nav ul li a {
 
 
 #experience {
-    background-color: #e6e6e6;
+    background-color: #C4E3E5;
     padding: 20px;
     text-align:left;
     margin: 0;
@@ -263,7 +263,7 @@ header nav ul li a {
 /* Work Experience Section */
 #work-experience {
     padding: 20px;
-    background-color: #d9b3ff;
+    background-color: #33CCFF;
     text-align: center;
     margin: 0;
     border-radius: 10px;
@@ -295,7 +295,7 @@ header nav ul li a {
 
 /* Habits Section */
 #habits {
-    background-color: #e6e6e6;
+    background-color: #C4E3E5;
     padding: 20px;
     text-align: left;
     margin: 0;
@@ -390,7 +390,7 @@ header nav ul li a {
 }
 
 footer{
-    background-color: #d9b3ff;
+    background-color: #33CCFF;
     padding: 20px;
     text-align: center;
     margin: 0;
